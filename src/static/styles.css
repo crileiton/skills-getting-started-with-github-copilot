@@ -157,6 +157,7 @@ button:hover {
   background-color: #3949ab;
 }
 
+/* The .dark-mode-toggle class styles the button used to toggle dark mode */
 .dark-mode-toggle {
   position: absolute;
   top: 20px;
